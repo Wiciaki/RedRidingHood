@@ -1,3 +1,0 @@
-# RedRidingHoodProcessing
-
-Projekt zrealizowany w ramach zajęć seminaryjnych Kognitywistyki UJ. Wykorzystuje środowisko Processing i bibliotekę nyar w celu zaimplementowania technologii AR do uskuteczniania i eksplorowania technik aktywnego czytania
